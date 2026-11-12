@@ -1,0 +1,16 @@
+# Generated builds and disk images
+/build/
+/dist/
+*.iso
+*.img
+*.qcow2
+*.vdi
+*.vmdk
+*.raw
+
+# Local caches and editor/runtime artifacts
+.cache/
+__pycache__/
+*.py[cod]
+*.log
+*.swp
